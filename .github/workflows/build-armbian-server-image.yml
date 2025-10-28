@@ -187,6 +187,7 @@ on:
           - zcube1-max
           - zk-r39a
           - zysj
+          - t-order-tablet
       armbian_kernel:
         description: "Select kernel version."
         required: false
